@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 10%;
+}
+
+header ul li a{
+    color: black !important;
+}
+
+.linkActivo{
+    font-weight: bold;
+}
+
+body {
+    background-color: #E4CDA7;
+}
+
+h1 {
+    margin-bottom: 1rem;
+    color: rgb(2, 2, 2);
+    text-align: center;
+    font-size: 2rem;
+    letter-spacing: 0.2rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    margin-left: 0.2rem;
+}
+
+.contenedorImg{
+    width: 50vw;
+}
+
+.listaObjetivos{
+    list-style-type: square;
+    font-weight: bold;
+    margin-left: 3rem;
+}
+
+.formulario{
+    width: 50vw;
+    margin: 50px;
+}
+
+.divTabla{
+    margin: 10px;
+    width: 80vw;
+}
+
+th {
+    padding-left: 1rem;
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #000000;
+}
+
+td {
+    padding-right: 1rem;
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+}
+
+footer a{
+    color: black;
+    font-style: italic;
+}
+
